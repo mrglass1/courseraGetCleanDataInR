@@ -1,5 +1,5 @@
 # Code Book 
-This is a +code book describes variables, data, and transformations performed to clean up the data. 
+This code book describes variables, data, and transformations performed to clean up the data. 
 The clean and tidy dataset is here [tidy_data.txt](https://github.com/prigyan/courseraGetCleanDataInR/blob/master/tidy_data.txt)
 
 ## Data Source Details
